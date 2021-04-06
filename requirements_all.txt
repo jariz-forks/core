@@ -327,6 +327,9 @@ baidu-aip==1.6.6
 # homeassistant.components.homekit
 base36==0.1.1
 
+# homeassistant.components.basestation
+basestation==0.0.4
+
 # homeassistant.components.modem_callerid
 basicmodem==0.7
 
